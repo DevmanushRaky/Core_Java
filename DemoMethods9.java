@@ -38,8 +38,8 @@ public class DemoMethods9 {
         System.out.println("-------Your Choice-------:");
         System.out.println("1.Greatest\n2.Smallest");
         System.out.print("Enter your Choice :");
-      
         int choice = sc.nextInt();
+        
         switch(choice){
             case 1:
                     Greatest g = new Greatest();
