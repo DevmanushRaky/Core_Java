@@ -54,6 +54,19 @@ public class DemoMethods9 {
             default:
                     System.out.println("Invalid Choice...");
         }
+         
+        //another solution for find maximum number using Math.max method
+        
+        /*
+        int a = sc.nextInt();
+        int b = sc.nextInt();
+        int c = sc.nextInt();
+        
+        int max = Math.max(c,Math.max(a,b));
+        System.out.println("The maximum value is :" +max);
+        */
+        
+        
     }
 
 }
