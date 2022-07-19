@@ -15,7 +15,7 @@ public class DemoBlock1 {  //Main Class
         System.out.println("The value of x:"+BTest1.x );
     }
     static{
-        System.out.println("----MainClass Static block-----");
+        System.out.println("------MainClass Static block-----");
         System.out.println("The value of z :"+ z);
     }
     
